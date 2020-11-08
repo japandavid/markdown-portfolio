@@ -1,1 +1,1 @@
-![Image of codercat] (https://octodex.github.com/images/codercat.png)
+![Image of Yatocat](https://octodex.github.com/images/codercat.png)
